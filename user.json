@@ -1,0 +1,90 @@
+{
+    "5492311099": {
+        "used_keys": {
+            "hee": 12
+        },
+        "remaining_keys": {
+            "hee": 999987
+        }
+    },
+    "6120763010": {
+        "used_keys": {
+            "free": 7
+        },
+        "remaining_keys": {
+            "free": 8
+        }
+    },
+    "7917549281": {
+        "used_keys": {
+            "zela": 0
+        },
+        "remaining_keys": {
+            "zela": 10
+        }
+    },
+    "5045688473": {
+        "used_keys": {
+            "zela1": 0,
+            "kuy": 0,
+            "kuy1": 0,
+            "h": 0,
+            "h12": 0
+        },
+        "remaining_keys": {
+            "zela1": 10,
+            "kuy": 10,
+            "kuy1": 10,
+            "h": 1,
+            "h12": 1
+        }
+    },
+    "5781485172": {
+        "used_keys": {
+            "jk": 0
+        },
+        "remaining_keys": {
+            "jk": 2
+        }
+    },
+    "5714577569": {
+        "used_keys": {
+            "milo": 0
+        },
+        "remaining_keys": {
+            "milo": 99999
+        }
+    },
+    "5845329561": {
+        "used_keys": {
+            "test": 0
+        },
+        "remaining_keys": {
+            "test": 1
+        }
+    },
+    "6323924303": {
+        "used_keys": {
+            "panda1": 0
+        },
+        "remaining_keys": {
+            "panda1": 7
+        }
+    },
+    "5929077397": {
+        "used_keys": {
+            "panda2": 2
+        },
+        "remaining_keys": {
+            "panda2": 8
+        }
+    },
+    "7621563329": {
+        "used_keys": {
+            "kowit": 0
+        },
+        "remaining_keys": {
+            "kowit": 10
+        }
+    }
+}
